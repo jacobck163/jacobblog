@@ -1,9 +1,9 @@
 # Site settings
 title: Jacob的博客
-SEOTitle: 博客 - 让沟通更容易
+SEOTitle: 分布式博客，随处克隆
 header-img: img/post-bg-desk.jpg
 email: jacobck@163.com
-description: "分布式博客，创作的内容随处保存"
+description: "谈技术谈读书"
 keyword: "如果github网络抽风，请耐心等等"
 url: "https://jacobck163.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
