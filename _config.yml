@@ -3,8 +3,8 @@ title: Jacob的博客
 SEOTitle: 博客 - 让沟通更容易
 header-img: img/post-bg-desk.jpg
 email: jacobck@163.com
-description: "如果github网络抽风，请耐心等等或者搬梯子"
-keyword: "分布式博客，创作的内容归于你自己"
+description: "分布式博客，创作的内容随处保存"
+keyword: "如果github网络抽风，请耐心等等"
 url: "https://jacobck163.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jacobck163/jacobck163.github.io.git" # you code repository
