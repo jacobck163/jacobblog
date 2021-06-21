@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: ca58fde23072fac54835                            #生成的clientID
   clientSecret: d013e0e396226be8fb44904523be6f23abc6b93a    #生成的clientSecret
-  repo: jacobck163.github.io    #仓库名称
+  repo: blog_discussion    #仓库名称
   owner: jacobck163    #github用户名
   admin: jacobck163
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
