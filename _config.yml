@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: jacobck@163.com
 description: "如果github网络抽风，请多刷新几次"
 keyword: "技术与读书"
-url: "https://jacobck163.github.io/"          # your host, for absolute URL
+url: "https://jacobck163.github.io/jacobblog/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jacobck163/jacobblog.git" # you code repository
 
