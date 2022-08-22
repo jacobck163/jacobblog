@@ -1,3 +1,3 @@
 https://jacobck163.github.io/
 
-个人笔记。
+个人闲笔
